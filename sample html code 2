@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image</title>
+</head>
+<body>
+    <h1>IMAGE TAG</h1>
+
+    <img src="image mp3.png" alt="#" height="200px" width="400px"><br>
+
+
+    <img src="https://share.google/images/pwlhXKN6tezQJda0O" alt="#">    
+
+    <!--Order list -->
+    <h2>Order list</h2>
+    <ol>
+        <li>A</li>
+        <LI>B</LI>
+        <LI>C</LI>
+        <LI>D</LI>
+    </ol>
+    
+    <!-- Unorder List -->
+     <h2>Unorder list</h2>
+     <ul>
+        <li>a</li>
+        <li>b</li>
+        <li>c</li>
+        <li>d</li>
+     </ul>
+
+     <!-- Description list -->
+      <h2>Description list</h2>
+      <dl>
+        <dt>ABC</dt>
+            <dd>apple</dd>
+            <dd>banana</dd>
+            <dd>carrot</dd>
+      </dl>
+
+      <!-- Table -->
+       <h2>TABLE</h2>
+        <table border="2">
+            <thead>
+                <th>name</th>
+                <th>city</th>
+            </thead>
+            <tbody>
+                <td>a</td>
+                <td>b</td>
+             </tbody>
+
+             <tfoot>
+                <td colspan="2">aravinth</td>
+             </tfoot>
+
+        </table>
+
+
+        <table border="2">
+            <tr>
+                <th colspan="2">details</th>
+             </tr>
+             <tr>
+                <th>name</th>
+                <th>city</th>
+             </tr>
+             <tr>
+                <td>ab</td>
+                <td rowspan="2">erode</td>
+             </tr>
+             <tr>
+                <td>cd</td>
+             </tr>
+        </table>
+
+        <!-- audio tag -->
+         <h3>audio</h3>
+            
+            <audio controls
+                sourse src="audio.mp3" type="audio"></audio>
+
+        <!-- video tag -->
+         <h3>video</h3>
+
+         <video controls
+            source src="video.mp4" height="200px" width="400px"></video><br>
+
+        <iframe width="500" height="300" src="https://www.youtube.com/embed/G3e-cpL7ofc?si=-jlI5V_SwdbJzltR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        <table border="2">
+            <tr>
+                <th colspan="2">particulars</th>
+
+            </tr>
+            <tr>
+                <th>name</th>
+                <th>age</th>
+            </tr>
+            <tr>
+                <td>ab</td>
+                <td rowspan="2">5</td>
+            </tr>
+            <tr>
+                <td>cd</td>
+            </tr>
+
+        </table>
+</body>
+</html>
