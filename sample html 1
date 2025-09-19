@@ -1,0 +1,50 @@
+<tagname>day 1</tagname>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day 1</title>
+
+</head>
+<body>
+    <h1>1</h1><hr>
+    <!-- paragraph -->
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellendus, a fugit. Vitae non vel in et temporibus repellat similique est fuga voluptates? Sunt unde saepe, voluptatibus pariatur asperiores nostrum ad.</p>
+
+    <!-- pre -->
+    <pre>       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim neque quia perspiciatis,
+         voluptatum sit fuga veniam voluptatem, fugiat consequuntur velit,
+         inventore maiores eaque libero vel blanditiis sequi dignissimos a! Dolore?
+     </pre><br>
+
+     <!-- anchor -->
+     <a href="https://www.google.com/search?gs_ssp=eJzj4tLP1TcoqiwoyE1XYDRgdGDwYkvPLMkoTQIAWC4HFA&q=github&rlz=1C1JJTC_enIN1169IN1169&oq=&gs_lcrp=EgZjaHJvbWUqDwgBEC4YJxjHARjqAhjRAzIJCAAQIxgnGOoCMg8IARAuGCcYxwEY6gIY0QMyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQoyMTAyN2owajE1qAIIsAIB8QVzyHAOcXyJAvEFc8hwDnF8iQI&sourceid=chrome&ie=UTF-8" target="_blank">git hub</a>
+
+     <a href="https://www.google.com/search?q=whatsapp&sca_esv=7e7ead78d89c5fa2&rlz=1C1JJTC_enIN1169IN1169&sxsrf=AE3TifMltZFmLFDfLIArAyVCZCFq5hnpeA%3A1756707332534&ei=BDq1aKGvIPSu4-EP6qCdmQI&gs_ssp=eJzj4tLP1TcoSzLJKctRYDRgdGDw4ijPSCwpTiwoAABiYAe2&oq=WHA&gs_lp=Egxnd3Mtd2l6LXNlcnAiA1dIQSoCCAQyChAjGIAEGCcYigUyChAjGIAEGCcYigUyChAAGIAEGEMYigUyChAAGIAEGEMYigUyFhAuGIAEGLEDGNEDGEMYgwEYxwEYigUyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGLEDMgUQABiABDIlEC4YgAQYsQMY0QMYQxiDARjHARiKBRiXBRjcBBjeBBjgBNgBAUjEM1C1BFjZGnACeAGQAQSYAdkBoAGyDKoBBTAuNi4yuAEDyAEA-AEBmAIHoAKDHKgCEMICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIOEAAYsAMY5AIY1gTYAQHCAhkQLhiABBiwAxjRAxhDGMcBGMgDGIoF2AEBwgIQEC4YgAQY0QMYxwEYJxiKBcICDRAAGIAEGLEDGBQYhwLCAg0QABiABBixAxhDGIoFwgIdEC4YgAQY0QMYxwEYigUYlwUY3AQY3gQY4ATYAQHCAg0QLhjRAxjHARgnGOoCwgIHECMYJxjqAsICChAjGPAFGCcY6gLCAhwQLhiABBjRAxhDGLQCGMcBGMgDGIoFGOoC2AEBwgIEECMYJ8ICCxAAGIAEGLEDGIMBwgIIEC4YgAQYsQOYAwbxBZrizfvabBU8iAYBkAYTugYGCAEQARgJkgcJMi4xLjMuOC0xoAfFTrIHBTAuMS4zuAfGBsIHBzItMS40LjLIB1s&sclient=gws-wiz-serp" target="_self">Whatsapp</a>
+
+    <!-- text comment -->
+    <i>Lorem ipsum dolor sit amet.</i> <br>
+
+    <b>Lorem ipsum dolor sit amet.</b><br>
+
+    <strong>Lorem ipsum dolor sit amet. </strong><br>
+
+    <em>Lorem ipsum dolor sit amet.</em><br>
+
+    <small>Lorem ipsum dolor sit amet.</small><br>
+     
+    <del>Lorem ipsum dolor sit amet.</del><br>
+
+     <ins>Lorem ipsum dolor sit amet.</ins><br>
+
+     v<sub>f</sub><br>
+
+     a<sub>2</sub><br>
+
+     <mark>Lorem ipsum dolor sit amet.</mark>
+     
+
+</body>
+</html>
